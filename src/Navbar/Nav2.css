@@ -1,0 +1,14 @@
+li:hover{
+    cursor: pointer;
+    color: blue;
+    border-bottom: 4px dotted grey;
+}
+.list-div{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.list-div a:hover{
+    color: blue;
+    cursor: pointer;
+}
